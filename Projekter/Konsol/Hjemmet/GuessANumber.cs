@@ -5,7 +5,7 @@ namespace Hjemmet
         public void Start()
         {
             Console.WriteLine("Gæt et tal er ikke implementeret endnu.");
-            Console.ReadKey();
+            Console.ReadKey(); //hiiiii
         }
     }
 }
